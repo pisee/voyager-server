@@ -1,6 +1,6 @@
 # Voyager - server
 ## License
- 
+
 [Node.js Project Licensing Information.](https://raw.githubusercontent.com/nodejs/node/master/LICENSE ) 
 
 ## Application Structure
