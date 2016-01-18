@@ -30,3 +30,9 @@ Package.json 에 사용하는 모듈을 추가해줌
 ## Author
 
 cACT Apollo-11
+
+## Git repository
+
+[https://github.com/catcApollo/voyager-client.git](https://github.com/catcApollo/voyager-client.git)
+
+[https://github.com/pisee/voyager-server.git](https://github.com/pisee/voyager-server.git) 
